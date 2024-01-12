@@ -1,0 +1,13 @@
+header {
+background-image: url('../resources/Banner\ Image.png');
+height: 600px;
+width: 100%;
+background-repeat: no-repeat;
+background-size: cover;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.new-year{
+    text-align: center;
+}
